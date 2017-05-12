@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dyddsul888.github.io/index.html</loc>
-    <lastmod>2017-05-10</lastmod>
+    <loc>http://112115.ger/index.html</loc>
+    <lastmod>2017-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://112115.ger/images/best-chip-wires-background-eps-file-draw.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://112115.ger/images/bg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://112115.ger/images/stock-footage-green-circuit-board-and-binary-symbols-loop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://112115.ger/images/18274846_1899334183667685_7479066597374448750_n.png</image:loc>
+    </image:image>
   </url>
 </urlset>
